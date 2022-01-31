@@ -1,7 +1,8 @@
 # Portfolio
-
-Perfect Portoflio Template to start your developer career in html, css and js.
-
+Kingswhale
 ## Credits
-
-Template was created by Tenzin Phuljung and edited by Afeez Aderemi.
+'I am seriousely studying to become Full-Stack Developer. come the beginning of 2022',
+'love everything about code.',
+'also teach programming to people.',
+'solve problems.',
+'More so, I am a tech evangelist and I will preach it to death.',
