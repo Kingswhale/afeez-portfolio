@@ -1,7 +1,3 @@
-# Portfolio
-
-Perfect Portoflio Template to start your developer career in html, css and js.
+# Afeez Aderemi Portfolio
 
 ## Credits
-
-Template was edited by Afeez Aderemi.
